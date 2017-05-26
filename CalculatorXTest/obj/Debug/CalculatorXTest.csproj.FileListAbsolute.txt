@@ -1,0 +1,8 @@
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\obj\Debug\CalculatorXTest.csprojResolveAssemblyReference.cache
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\bin\Debug\CalculatorXTest.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\bin\Debug\CalculatorXTest.pdb
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\bin\Debug\Calculator.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\bin\Debug\nunit.framework.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\bin\Debug\nunit.framework.xml
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\obj\Debug\CalculatorXTest.dll
+c:\users\inna.yankelevich\documents\visual studio 2012\Projects\CalculatorXTest\CalculatorXTest\obj\Debug\CalculatorXTest.pdb
